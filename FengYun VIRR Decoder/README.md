@@ -1,4 +1,4 @@
-# FengYun AVHRR Decoder
+# FengYun VIRR Decoder
 
 This program takes VIRR frames from the CCSDS Demuxer and makes an image... Very basic for now! Only outputs rgb composite...
 
